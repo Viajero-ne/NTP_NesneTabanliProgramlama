@@ -1,0 +1,6 @@
+@Ntp.API_HostAddress = http://localhost:5052
+
+GET {{Ntp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

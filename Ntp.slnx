@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/Ntp.Application/Ntp.Application.csproj" />
+    <Project Path="Core/Ntp.Domain/Ntp.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/Ntp.Infrastructure/Ntp.Infrastructure.csproj" />
+    <Project Path="Infrastructure/Ntp.Persistance/Ntp.Persistance.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/Ntp.API/Ntp.API.csproj" />
+  </Folder>
+</Solution>
